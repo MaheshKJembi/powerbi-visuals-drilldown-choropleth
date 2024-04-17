@@ -1,0 +1,86 @@
+{
+  "country_name": "Ethiopia",
+  "regions": [
+    {
+      "region_name": "Oromia",
+      "boundaries": [
+        {"latitude": 9.8833, "longitude": 36.0833},
+        {"latitude": 9.8833, "longitude": 40.5000},
+        {"latitude": 3.0000, "longitude": 40.5000},
+        {"latitude": 3.0000, "longitude": 36.0833}
+      ]
+    },
+    {
+      "region_name": "Afar",
+      "boundaries": [
+        {"latitude": 14.3000, "longitude": 40.5000},
+        {"latitude": 14.3000, "longitude": 39.5000},
+        {"latitude": 13.1000, "longitude": 39.5000},
+        {"latitude": 13.1000, "longitude": 40.5000}
+      ]
+    },
+    {
+      "region_name": "Amhara",
+      "boundaries": [
+        {"latitude": 14.3000, "longitude": 36.0833},
+        {"latitude": 14.3000, "longitude": 40.5000},
+        {"latitude": 9.8833, "longitude": 40.5000},
+        {"latitude": 9.8833, "longitude": 36.0833}
+      ]
+    },
+    {
+      "region_name": "Benshangul-Gumaz",
+      "boundaries": [
+        {"latitude": 11.5000, "longitude": 34.2500},
+        {"latitude": 11.5000, "longitude": 35.7500},
+        {"latitude": 9.8833, "longitude": 35.7500},
+        {"latitude": 9.8833, "longitude": 34.2500}
+      ]
+    },
+    {
+      "region_name": "Dire Dawa",
+      "boundaries": [
+        {"latitude": 9.6000, "longitude": 41.8500},
+        {"latitude": 9.6000, "longitude": 42.2500},
+        {"latitude": 9.3000, "longitude": 42.2500},
+        {"latitude": 9.3000, "longitude": 41.8500}
+      ]
+    },
+    {
+      "region_name": "Gambela Peoples",
+      "boundaries": [
+        {"latitude": 7.9500, "longitude": 33.7500},
+        {"latitude": 7.9500, "longitude": 35.0000},
+        {"latitude": 7.1000, "longitude": 35.0000},
+        {"latitude": 7.1000, "longitude": 33.7500}
+      ]
+    },
+    {
+      "region_name": "Somali",
+      "boundaries": [
+        {"latitude": 11.5000, "longitude": 41.0000},
+        {"latitude": 11.5000, "longitude": 43.0000},
+        {"latitude": 3.0000, "longitude": 43.0000},
+        {"latitude": 3.0000, "longitude": 41.0000}
+      ]
+    },
+    {
+      "region_name": "Tigray",
+      "boundaries": [
+        {"latitude": 14.3000, "longitude": 39.5000},
+        {"latitude": 14.3000, "longitude": 37.8000},
+        {"latitude": 13.1000, "longitude": 37.8000},
+        {"latitude": 13.1000, "longitude": 39.5000}
+      ]
+    },
+    {
+      "region_name": "Addis Ababa",
+      "boundaries": [
+        {"latitude": 9.0333, "longitude": 38.7000},
+        {"latitude": 9.0333, "longitude": 38.9167},
+        {"latitude": 8.7833, "longitude": 38.9167},
+        {"latitude": 8.7833, "longitude": 38.7000}
+      ]
+    }
+  ]
+}
